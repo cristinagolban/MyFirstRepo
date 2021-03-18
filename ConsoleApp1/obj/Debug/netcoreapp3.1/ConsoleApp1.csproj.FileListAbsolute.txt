@@ -1,0 +1,13 @@
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Cristina\Internship\1. GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
