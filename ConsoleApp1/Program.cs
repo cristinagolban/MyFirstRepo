@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("aaaaaaa");
-            Console.WriteLine("i am on development");
+            Console.WriteLine("i AM ON DEVELOPMENT");
         }
     }
 }
